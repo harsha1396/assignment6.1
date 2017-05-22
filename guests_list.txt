@@ -1,4 +1,3 @@
-2693 lines (2693 sloc)  126 KB
 1999,actor,1/11/99,Acting,Michael J. Fox
 1999,Comedian,1/12/99,Comedy,Sandra Bernhard
 1999,television actress,1/13/99,Acting,Tracey Ullman
